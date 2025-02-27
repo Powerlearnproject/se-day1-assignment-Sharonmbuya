@@ -21,6 +21,7 @@ Explain the fundamental concepts of version control and why GitHub is a popular 
        
 
 Describe the process of setting up a new repository on GitHub. What are the key steps, and what are some of the important decisions you must make during this process?
+    1.Go to GitHub and log in or create an account.
 
 Discuss the importance of the README file in a GitHub repository. What should be included in a well-written README, and how does it contribute to effective collaboration?
 
