@@ -18,10 +18,17 @@ Explain the fundamental concepts of version control and why GitHub is a popular 
       .Enhances collaboration-Multiple developers can work on the same project without overwriting each other's work.
       .Provides accountability-The history of commits shows who made what changes and when.
       .Developers can test new feauters in branches without affecting the main project.
+      Logging into the github account
+      Repository creation
+      Initiate repo settings by choosing a name, deciding if it's public or private
+      Initialize the files- 
+      Have default branch name
+      choose the authentication method between HTTPS and SSH used for cloning
+
        
 
 Describe the process of setting up a new repository on GitHub. What are the key steps, and what are some of the important decisions you must make during this process?
-    1.Go to GitHub and log in or create an account.
+    
 
 Discuss the importance of the README file in a GitHub repository. What should be included in a well-written README, and how does it contribute to effective collaboration?
 
